@@ -1,0 +1,8 @@
+1. In the northern hemisphere the temperature has a negative correlation with latitude, the farther north you go the colder it gets. In the southern hemishpere the temperature has a positive correlation with latitude, the closer to zero you get the high the temperature is.
+
+2. In the northern hemisphere, there is a very weak positive correlation with cloudiness and latitude. The correlation between cloudiness and latitude is stronger in the southern
+hemisphere but only slightly
+
+3. The correlation between huidity and latitude appears to be very similar in both the northern and southern hemisphere.
+
+4. There appears to be very slight positive to no correlation between latitude and wind speed due to the flatness of the line. In the southern hemisphere there there is a stronger correlation then the northern hemisphere but its negative.
